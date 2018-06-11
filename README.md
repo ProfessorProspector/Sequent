@@ -1,1 +1,1 @@
-# Sequent
+# Sequential
